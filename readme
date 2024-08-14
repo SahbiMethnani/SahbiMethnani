@@ -1,0 +1,50 @@
+SahbiMethnani
+=============
+
+SahbiMethnani est une bibliothèque Python pour la gestion des employés avec une interface graphique utilisant PyQt5 et SQLite. Elle permet d'ajouter, de modifier, de supprimer, et d'exporter les données des employés vers un fichier Excel.
+
+Fonctionnalités
+---------------
+- Gestion des employés : Ajout, mise à jour, suppression d'employés dans une base de données SQLite.
+- Interface graphique : Utilisation de PyQt5 pour une interface conviviale.
+- Exportation : Exporter les données des employés dans un fichier Excel (.xlsx).
+
+Installation
+------------
+Pour installer cette bibliothèque, utilisez la commande suivante :
+
+    pip install SahbiMethnani
+
+Utilisation
+-----------
+Voici un exemple simple pour démarrer avec la bibliothèque :
+
+    from SahbiMethnani.employee import Employee
+    import sys
+    from PyQt5.QtWidgets import QApplication
+
+    app = QApplication(sys.argv)
+    window = Employee()
+    window.show()
+    sys.exit(app.exec())
+
+Structure du Projet
+-------------------
+SahbiMethnani/
+├── SahbiMethnani/
+│   ├── __init__.py
+│   └── employee.py
+├── setup.py
+└── README.txt
+
+Contribution
+------------
+Les contributions sont les bienvenues ! Si vous avez des idées pour améliorer cette bibliothèque ou corriger des bugs, n'hésitez pas à ouvrir une issue ou une pull request sur le dépôt GitHub.
+
+Licence
+-------
+Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
+
+Auteur
+------
+sahbimethnani - Auteur principal - sahbimethnani3@gmail.com
