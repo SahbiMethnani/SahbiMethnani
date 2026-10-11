@@ -4,6 +4,7 @@
 
 ---
 
+## Français
 
 ### Ingénieur en génie logiciel
 
@@ -31,24 +32,34 @@ Basé à Tunis, Tunisie. Je travaille en français et en anglais.
 
 ### Projets
 
-**DocRAG, gestion documentaire intelligente** (projet de fin d'études)
+#### DocRAG, gestion documentaire intelligente (projet de fin d'études)
+
 Application SaaS multi-tenant avec une base SQLite par client, un chatbot RAG, une authentification LDAP et JWT, des tests automatisés avec pytest et un déploiement conteneurisé.
+
 Stack : FastAPI, LanceDB, Ollama (Mistral), Angular, Docker Compose.
 
-**Plateforme de formation et de révision**
+#### Plateforme de formation et de révision
+
 Espace étudiant (formations, fiches de révision, QCM corrigés, suivi de la progression) et back-office d'administration.
+
 Stack : React, FastAPI, Supabase, Render, Netlify.
 
-**Caisse enregistreuse pour le marché tunisien**
+#### Caisse enregistreuse pour le marché tunisien
+
 Application de point de vente adaptée aux usages locaux : dinars tunisiens et gestion de la TVA.
+
 Stack : FastAPI, React, Vite.
 
-**MeetUp Friends**
+#### MeetUp Friends
+
 Application mobile d'événements entre amis avec messagerie en temps réel par WebSocket.
+
 Stack : Flutter, Riverpod, GoRouter, FastAPI.
 
-**Générateurs de sites**
+#### Générateurs de sites
+
 Générateur de sites Angular en Python (routage, thèmes) et créateur de pages sans code avec aperçu en direct et export HTML.
+
 Stack : Python, Angular, Streamlit.
 
 ### Expérience
@@ -72,7 +83,6 @@ Stack : Python, Angular, Streamlit.
 - E-mail : [sahbimethnani3@gmail.com](mailto:sahbimethnani3@gmail.com)
 - LinkedIn : [linkedin.com/in/methnani-sahbi](https://www.linkedin.com/in/methnani-sahbi)
 - GitHub : [github.com/SahbiMethnani](https://github.com/SahbiMethnani)
-<!-- Portfolio : [votre-site.netlify.app](https://votre-site.netlify.app) -->
 
 Je reste disponible pour échanger sur le développement web, les systèmes RAG et la qualité logicielle.
 
@@ -106,24 +116,34 @@ Based in Tunis, Tunisia. I work in French and English.
 
 ### Projects
 
-**DocRAG, intelligent document management** (final-year project)
+#### DocRAG, intelligent document management (final-year project)
+
 Multi-tenant SaaS application with one SQLite database per client, a RAG chatbot, LDAP and JWT authentication, automated tests with pytest and a containerized deployment.
+
 Stack: FastAPI, LanceDB, Ollama (Mistral), Angular, Docker Compose.
 
-**Training and revision platform**
+#### Training and revision platform
+
 Student area (courses, revision sheets, graded quizzes, progress tracking) and an administration back office.
+
 Stack: React, FastAPI, Supabase, Render, Netlify.
 
-**Point-of-sale system for the Tunisian market**
+#### Point-of-sale system for the Tunisian market
+
 Point-of-sale application adapted to local needs: Tunisian dinars and VAT handling.
+
 Stack: FastAPI, React, Vite.
 
-**MeetUp Friends**
+#### MeetUp Friends
+
 Mobile app for organizing events with friends, with real-time messaging over WebSocket.
+
 Stack: Flutter, Riverpod, GoRouter, FastAPI.
 
-**Site generators**
+#### Site generators
+
 A Python generator for Angular sites (routing, themes) and a no-code page builder with live preview and HTML export.
+
 Stack: Python, Angular, Streamlit.
 
 ### Experience
