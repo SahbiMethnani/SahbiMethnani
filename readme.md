@@ -8,14 +8,11 @@
 
 ### Ingénieur en génie logiciel
 
-Je conçois des applications web et des systèmes intelligents, du backend Python à l'interface utilisateur. Mon travail actuel porte sur les systèmes de gestion documentaire augmentés par l'IA (RAG) et sur la qualité logicielle d'une plateforme de billetterie électronique.
+Je conçois des applications web et des systèmes intelligents, du backend Python à l'interface utilisateur.
 
 Basé à Tunis, Tunisie. Je travaille en français et en anglais.
 
-### En ce moment
 
-- **Projet de fin d'études, DocRAG** : application SaaS multi-tenant de gestion documentaire avec un chatbot RAG qui permet d'interroger les documents en langage naturel. Déployée en production sur un VPS OVH (Nginx, SSL).
-- **Tick8ing, Tunis** : Software Tester & Technical Support depuis octobre 2025. Recette fonctionnelle, rédaction de tickets de bogues, développement de composants Angular et documentation technique.
 
 ### Compétences
 
@@ -92,14 +89,10 @@ Je reste disponible pour échanger sur le développement web, les systèmes RAG 
 
 ### Software Engineer
 
-I design web applications and intelligent systems, from Python backends to user interfaces. My current work focuses on AI-augmented document management systems (RAG) and on the software quality of an electronic ticketing platform.
+I design web applications and intelligent systems, from Python backends to user interfaces. 
 
 Based in Tunis, Tunisia. I work in French and English.
 
-### Currently
-
-- **Final-year engineering project, DocRAG**: a multi-tenant SaaS document management application with a RAG chatbot that lets users query their documents in natural language. Deployed to production on an OVH VPS (Nginx, SSL).
-- **Tick8ing, Tunis**: Software Tester & Technical Support since October 2025. Functional testing, bug ticket writing, Angular component development and technical documentation.
 
 ### Skills
 
